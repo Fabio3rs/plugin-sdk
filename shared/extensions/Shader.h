@@ -8,7 +8,7 @@
 
 #ifdef _DX9_SDK_INSTALLED
 #ifdef GTASA
-#include <Windows.h>
+#include <windows.h>
 #include "d3dx9.h"
 #include <stdio.h>
 #include <vector>
